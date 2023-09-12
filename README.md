@@ -12,6 +12,8 @@ There are other options, but this is simplest and most common.
 We create the environment as a subfolder of this repo named .venv to keep it away from our project code. 
 
 ## Screenshot:
+<img width="885" alt="Screenshot 2023-09-11 at 9 43 01 PM" src="https://github.com/Hajarbany/streaming-03-rabbitmq/assets/97689037/ffa3abdd-da40-4825-a77a-fa0b1a8ee420"> <img width="997" alt="Screenshot 2023-09-11 at 9 43 14 PM" src="https://github.com/Hajarbany/streaming-03-rabbitmq/assets/97689037/25d1cafc-c129-4a35-9c24-6fb930bfd655">
+
 
 
 ## Prerequisites
@@ -19,7 +21,7 @@ We create the environment as a subfolder of this repo named .venv to keep it awa
 1. Git
 1. Python 3.7+ (3.11+ preferred)
 1. VS Code Editor
-1. VS Code Extension: Python (by Microsoft)
+1. VS Code Extension: Python
 1. RabbitMQ Server installed and running locally
 
 ## Before You Begin
